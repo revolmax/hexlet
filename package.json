@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/revolmax/hexlet/issues"
   },
-  "homepage": "https://github.com/revolmax/hexlet#readme"
+  "homepage": "https://github.com/revolmax/hexlet#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
